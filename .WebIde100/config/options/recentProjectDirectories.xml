@@ -1,0 +1,37 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/lab" />
+        <option value="$USER_HOME$/lab_web" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/lab" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/lab">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-143.1184" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1450205402646" />
+              <option name="buildTimestamp" value="1449612000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/lab_web">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-143.1184" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1450205335617" />
+              <option name="buildTimestamp" value="1449612000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

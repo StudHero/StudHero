@@ -1,0 +1,7 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="466" y="140" />
+    <location key="WELCOME_SCREEN.1366.0.1280.1024" x="683" y="230" />
+    <size key="FileChooserDialogImpl.0.0.1366.768" width="424" height="466" />
+  </component>
+</application>
